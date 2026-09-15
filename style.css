@@ -11,9 +11,11 @@ h1 {
 #gioi-thieu {
     background-color: #ffffff;
     padding: 15px;
-    border-left: 50px solid red;       ← SAI: viền dày 50px màu đỏ chói
+    border-left: 4px solid #007bff;
     margin-top: 20px;
-}#gioi-thieu h2 {
+}
+
+#gioi-thieu h2 {
     color: #007bff;
 }
 
