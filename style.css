@@ -7,3 +7,19 @@ body {
 h1 {
     color: #333;
 }
+
+#gioi-thieu {
+    background-color: #ffffff;
+    padding: 15px;
+    border-left: 4px solid #007bff;
+    margin-top: 20px;
+}
+
+#gioi-thieu h2 {
+    color: #007bff;
+}
+
+#gioi-thieu p {
+    line-height: 1.6;
+    color: #555;
+}
